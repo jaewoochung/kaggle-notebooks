@@ -1,0 +1,4 @@
+* Machine Learning Jupyter Notebooks
+** [[https://www.kaggle.com/][Kaggle]]
+  * This repository stores notebooks for Kaggle datasets/competitions
+  * Focused on using [[https://course.fast.ai/][FastAI]] library - a layered API for deep learning
